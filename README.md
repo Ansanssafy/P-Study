@@ -11,4 +11,4 @@
 
 | 주차 | 주제 | 세부 주제 및 담당 |
 | --- | --- | --- |
-| Week 31 <br/> (25.01.07. 화)    | 자율 학습 1주차    | [SQL 기본 문법-1](https://github.com/Ansanssafy/P-Study/blob/main/박준영/250107_SQL_기본문법학습.md) (by 박준영) <br/> [주제입력](주소입력) (by 김연동) <br/> [주제입력](주소입력) (by 서진경) <br/> [주제입력](주소입력) (by 홍창기)|
+| Week 31 <br/> (25.01.07. 화)    | 자율 학습 1주차    | [SQL 기본 문법-1](https://github.com/Ansanssafy/P-Study/blob/main/박준영/250107_SQL_기본문법학습.md) (by 박준영) <br/> [주제입력](주소입력) (by 김연동) <br/> [주제입력](주소입력) (by 서진경) <br/> [[MySQL] IN과 EXISTS의 차이](https://github.com/Ansanssafy/P-Study/blob/main/홍창기/250107_IN과_EXISTS의_차이.md) (by 홍창기)|
