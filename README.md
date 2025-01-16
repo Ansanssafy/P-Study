@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | Week 31 <br/> (25.01.07. 화)    | 자율 학습 1주차    | [SQL 기본 문법-1](https://github.com/Ansanssafy/P-Study/blob/main/박준영/250107_SQL_기본문법학습.md) (by 박준영) <br/> [주제입력](주소입력) (by 김연동) <br/> [주제입력](주소입력) (by 서진경) <br/> [[MySQL] IN과 EXISTS의 차이](https://github.com/Ansanssafy/P-Study/blob/main/홍창기/250107_IN과_EXISTS의_차이.md) (by 홍창기)|
 | Week 32 <br/> (25.01.16. 목)    | 자율 학습 2주차    | [SQL 기본 문법-2](https://github.com/Ansanssafy/P-Study/blob/main/박준영/250116 SQL_기본문법학습-2.md) (by 박준영) <br/> [주제입력](주소입력) (by 김연동) <br/> [주제입력](주소입력) (by 서진경) <br/> [주제입력](주소입력) (by 홍창기)|
-| Week 33 <br/> (25.01.23. 목)    | 자율 학습 3주차    | [SQL 기본 문법-2](https://github.com/Ansanssafy/P-Study/blob/main/박준영/250116 SQL_기본문법학습-2.md) (by 박준영) <br/> [주제입력](주소입력) (by 김연동) <br/> [주제입력](주소입력) (by 서진경) <br/> [주제입력](주소입력) (by 홍창기)|
+| Week 33 <br/> (25.01.23. 목)    | 자율 학습 3주차    | |
 | Week 34 <br/> (25.02.06. 목)    | 자율 학습 4주차    | |
 | Week 35 <br/> (25.02.13. 목)    | 자율 학습 5주차    | |
 
